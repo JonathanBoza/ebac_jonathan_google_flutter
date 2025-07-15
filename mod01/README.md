@@ -43,7 +43,7 @@ O aluno deverá demonstrar seu conhecimento respondendo às seguintes perguntas:
 - Seja claro e objetivo
 
 ### 📝 Formato de Entrega
-- Prazo: [DEFINIR DATA]
+- Prazo: 15/07/2025
 - Formato: Documento em texto ou markdown
 - Enviar através do repositório do curso
 
